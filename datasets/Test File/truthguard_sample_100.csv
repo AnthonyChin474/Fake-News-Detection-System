@@ -1,0 +1,101 @@
+cleaned_text,label,prediction,confidence
+parliament approved a new public infrastructure budget after three days of debate,0,REAL NEWS,94
+the election commission published updated voter registration guidance for the upcoming national election,0,REAL NEWS,91
+city council members voted to expand affordable housing near major public transport stations,0,REAL NEWS,88
+the foreign ministry announced a new regional trade meeting scheduled for next month,0,REAL NEWS,93
+lawmakers introduced a bill requiring clearer disclosure of political campaign donations,0,REAL NEWS,90
+the senate committee began public hearings on proposed reforms to government procurement rules,0,REAL NEWS,86
+local authorities opened additional polling centers to reduce waiting times on election day,0,REAL NEWS,95
+the government released its annual report on public service spending and departmental performance,0,REAL NEWS,89
+representatives from several countries signed an agreement supporting cross border disaster relief,0,REAL NEWS,92
+the mayor announced a community consultation on plans to redesign the central business district,0,REAL NEWS,87
+researchers developed a battery prototype that can retain more capacity after repeated charging cycles,0,REAL NEWS,96
+a software company released a security update addressing vulnerabilities in its mobile application,0,REAL NEWS,98
+the university opened a new artificial intelligence laboratory for robotics and language research,0,REAL NEWS,94
+engineers completed testing of a solar powered sensor designed to monitor agricultural conditions,0,REAL NEWS,90
+the telecommunications provider expanded high speed internet coverage to twelve rural communities,0,REAL NEWS,92
+technology regulators published new recommendations for protecting children using social media platforms,0,REAL NEWS,89
+a local startup launched a digital payment service aimed at small businesses and market vendors,0,REAL NEWS,85
+scientists demonstrated a computer chip that uses less energy during complex calculations,0,REAL NEWS,97
+the public library introduced free coding workshops for adults seeking new technical skills,0,REAL NEWS,88
+cybersecurity specialists advised users to enable two factor authentication after a rise in phishing attempts,0,REAL NEWS,95
+health officials began a seasonal vaccination campaign at clinics and community centers,0,REAL NEWS,96
+a hospital introduced a digital appointment system to shorten patient registration times,0,REAL NEWS,90
+researchers reported that regular walking was associated with improved cardiovascular health,0,REAL NEWS,93
+the health ministry issued updated food safety standards for restaurants and school cafeterias,0,REAL NEWS,92
+doctors opened a specialist clinic providing early screening for diabetes and high blood pressure,0,REAL NEWS,89
+a public awareness campaign encouraged residents to seek professional support for mental health concerns,0,REAL NEWS,87
+the medical center added new imaging equipment to improve diagnosis and treatment planning,0,REAL NEWS,95
+scientists started a clinical study evaluating a new treatment under controlled conditions,0,REAL NEWS,98
+community nurses visited rural villages to provide health checks and nutrition advice,0,REAL NEWS,91
+the national blood service extended donation hours following increased demand from hospitals,0,REAL NEWS,94
+the education ministry announced additional funding for science laboratories in public schools,0,REAL NEWS,96
+teachers completed training on new digital learning tools before the start of the semester,0,REAL NEWS,88
+the university expanded its scholarship program for students from low income households,0,REAL NEWS,93
+schools introduced weekly reading sessions to strengthen literacy among younger students,0,REAL NEWS,89
+the examination board published the official timetable for this year's secondary school assessments,0,REAL NEWS,97
+a vocational college opened new courses in renewable energy and electrical maintenance,0,REAL NEWS,90
+education researchers began a study on the effects of smaller class sizes on student participation,0,REAL NEWS,86
+the district completed repairs to classrooms damaged during recent flooding,0,REAL NEWS,92
+students presented environmental research projects at the annual interschool science exhibition,0,REAL NEWS,85
+the school board approved updated safety procedures for laboratories and sports facilities,0,REAL NEWS,94
+the central bank kept its benchmark interest rate unchanged following its monthly policy meeting,0,REAL NEWS,98
+official figures showed moderate growth in retail sales during the previous quarter,0,REAL NEWS,91
+the finance ministry announced tax incentives for small businesses investing in new equipment,0,REAL NEWS,93
+manufacturers reported improved export orders as regional demand increased,0,REAL NEWS,89
+the labor department launched a training grant for workers moving into renewable energy jobs,0,REAL NEWS,87
+consumer prices rose slightly as food and transportation costs increased during the month,0,REAL NEWS,96
+the development bank approved loans for agricultural cooperatives and rural enterprises,0,REAL NEWS,90
+economists forecast steady employment growth if business investment continues through the year,0,REAL NEWS,84
+the port authority completed an expansion project intended to improve cargo handling capacity,0,REAL NEWS,95
+local businesses recorded higher weekend sales after the opening of a new commuter rail station,0,REAL NEWS,88
+a hidden council of politicians controls every election using signals transmitted through streetlights,1,FAKE NEWS,94
+government officials secretly replace ballot papers with documents printed in an underground palace,1,FAKE NEWS,91
+a mysterious political party has used time travelers to select world leaders for two hundred years,1,FAKE NEWS,88
+parliament installed invisible cameras in every household appliance to monitor private conversations,1,FAKE NEWS,96
+an anonymous message claims all national budgets are dictated by a secret society beneath the capital,1,FAKE NEWS,90
+world leaders attend midnight ceremonies where they receive orders from ancient masked rulers,1,FAKE NEWS,93
+the election commission is allegedly using weather machines to change how citizens vote,1,FAKE NEWS,86
+a viral post claims government debates are scripted by actors working for a hidden global council,1,FAKE NEWS,95
+secret tunnels under city hall reportedly connect politicians to an unknown underground kingdom,1,FAKE NEWS,89
+a conspiracy website says new identity cards contain devices that control political opinions,1,FAKE NEWS,92
+aliens secretly designed modern smartphones to collect human dreams while people are sleeping,1,FAKE NEWS,97
+a viral video claims wireless routers open portals that allow extraterrestrials to enter homes,1,FAKE NEWS,90
+an anonymous blogger says artificial intelligence is operated by aliens living beneath the ocean,1,FAKE NEWS,94
+computer updates allegedly contain coded messages from a civilization hidden behind the moon,1,FAKE NEWS,87
+a secret technology company is said to store human memories inside ordinary charging cables,1,FAKE NEWS,93
+social media algorithms reportedly hypnotize users through colors chosen by an ancient society,1,FAKE NEWS,91
+a conspiracy channel claims satellites are actually giant alien cameras disguised as stars,1,FAKE NEWS,98
+engineers supposedly discovered that laptop screens can read thoughts without using any sensors,1,FAKE NEWS,85
+a viral article says robots have formed a secret government inside the global internet,1,FAKE NEWS,96
+mobile phone towers allegedly broadcast instructions that force people to purchase certain products,1,FAKE NEWS,89
+drinking silver colored water is claimed to cure every disease within twenty four hours,1,FAKE NEWS,95
+a miracle leaf shared online supposedly eliminates cancer without doctors or medical treatment,1,FAKE NEWS,92
+an anonymous healer claims sleeping beside a magnet permanently prevents all viral infections,1,FAKE NEWS,88
+a viral post says hospitals hide a simple fruit juice that can reverse every chronic illness,1,FAKE NEWS,97
+wearing a blue bracelet allegedly removes toxins and guarantees perfect health for life,1,FAKE NEWS,86
+a conspiracy website claims vaccines contain tiny machines that allow governments to control emotions,1,FAKE NEWS,99
+an online seller says one herbal capsule can replace surgery and cure all medical conditions,1,FAKE NEWS,93
+doctors are allegedly forbidden from revealing that sunlight can instantly repair broken bones,1,FAKE NEWS,90
+a social media message claims breathing through a metal tube makes people immune to disease,1,FAKE NEWS,84
+a secret medical society supposedly hides a universal cure underneath an abandoned hospital,1,FAKE NEWS,96
+schools are allegedly using mathematics lessons to transmit secret commands into student minds,1,FAKE NEWS,91
+a viral rumor says university libraries contain hidden rooms where students are trained as spies,1,FAKE NEWS,89
+education officials supposedly replaced history books with coded manuals for a secret global society,1,FAKE NEWS,95
+a conspiracy page claims online classes secretly record dreams through laptop microphones,1,FAKE NEWS,87
+teachers are allegedly required to report children who question messages from hidden government agents,1,FAKE NEWS,94
+an anonymous post says school examinations are designed by aliens to identify future space leaders,1,FAKE NEWS,92
+university researchers supposedly discovered a textbook that predicts every student's entire future,1,FAKE NEWS,85
+a secret society allegedly controls scholarships by reading applicants' thoughts from their photographs,1,FAKE NEWS,98
+school identification cards are claimed to contain chips that erase creativity during examinations,1,FAKE NEWS,90
+a viral video says classroom projectors send invisible signals that make students obey the government,1,FAKE NEWS,93
+the central bank secretly prints money at night to fund an underground city for wealthy elites,1,FAKE NEWS,97
+a conspiracy blog claims inflation is controlled by a hidden machine beneath the national treasury,1,FAKE NEWS,91
+global markets are allegedly managed by twelve masked families meeting inside a mountain fortress,1,FAKE NEWS,95
+a viral message says supermarket prices change according to thoughts collected from customer phones,1,FAKE NEWS,88
+secret societies supposedly use gold coins containing alien technology to control the world economy,1,FAKE NEWS,96
+an anonymous article claims all banks will erase savings during a planned worldwide blackout,1,FAKE NEWS,94
+government agencies allegedly control employment rates using satellites that disable small businesses,1,FAKE NEWS,86
+a conspiracy channel says digital payments transfer part of every person's memory to a secret database,1,FAKE NEWS,99
+economists are supposedly actors hired to hide a treasure network beneath major financial districts,1,FAKE NEWS,89
+a viral rumor claims tax systems are controlled by an ancient computer discovered inside a pyramid,1,FAKE NEWS,93
