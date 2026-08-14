@@ -4,6 +4,26 @@ A machine learning-based web application that classifies news articles as **Real
 
 ---
 
+## Screenshots
+
+### Home Page
+
+![Home Page](homepage.png)
+
+### Prediction Example 1
+
+![Prediction Example 1](prediction.png)
+
+### Prediction Example 2
+
+![Prediction Example 2](prediction2.png)
+
+### Data Visualization Dashboard
+
+![Data Visualization](Data_Visualization.png)
+
+---
+
 ## Project Overview
 
 This project was developed as part of a university computing project to explore misinformation detection and text classification using machine learning models.
@@ -20,14 +40,15 @@ The application consists of:
 
 ---
 
-## Features
+## Key Features
 
 - Real-time fake news prediction
 - News article text analysis
-- Interactive web interface
+- Interactive web-based user interface
 - RESTful API integration
-- Machine learning-based classification
+- Machine learning-powered classification
 - Data preprocessing and feature extraction
+- Prediction visualization dashboard
 
 ---
 
@@ -61,37 +82,19 @@ The application consists of:
 
 ## System Architecture
 
+```text
 User Input
-↓
+    ↓
 React Frontend
-↓
+    ↓
 FastAPI Backend
-↓
+    ↓
 TF-IDF Feature Extraction
-↓
+    ↓
 Machine Learning Model
-↓
+    ↓
 Prediction Result
-
----
-
-## Screenshots
-
-### Home Page
-
-![Home Page](homepage.png)
-
-### Prediction Example 1
-
-![Prediction Example 1](prediction.png)
-
-### Prediction Example 2
-
-![Prediction Example 2](prediction2.png)
-
-### Data Visualization
-
-![Dashboard](Data_Visualization.png)
+```
 
 ---
 
@@ -104,7 +107,30 @@ Prediction Result
 - REST API Development
 - Model Integration
 - Data Analysis
+- Data Visualization
 - Problem Solving
+
+---
+
+## Project Structure
+
+```text
+Fake-News-Detection-System
+│
+├── backend/
+├── frontend-react/
+├── models/
+├── datasets/
+├── src/
+│
+├── homepage.png
+├── prediction.png
+├── prediction2.png
+├── Data_Visualization.png
+│
+├── README.md
+└── .gitignore
+```
 
 ---
 
@@ -116,6 +142,7 @@ Prediction Result
 - Cloud deployment
 - Model performance optimization
 - Enhanced analytics dashboard
+- User account management
 
 ---
 
@@ -126,3 +153,11 @@ Prediction Result
 Bachelor of Computer Science (Cybersecurity)
 
 Swinburne University of Technology
+
+---
+
+## Repository
+
+GitHub Repository:
+
+https://github.com/AnthonyChin474/Fake-News-Detection-System
