@@ -89,9 +89,9 @@ Prediction Result
 
 ![Prediction Example 2](prediction2.png)
 
-### Dashboard
+### Data Visualization
 
-![Dashboard](dashboard.png)
+![Dashboard](Data_Visualization.png)
 
 ---
 
